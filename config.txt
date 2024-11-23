@@ -1,0 +1,7 @@
+aqua
+lib
+tts
+spotify
+simplespy
+simplicity
+ezhub
